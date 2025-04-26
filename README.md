@@ -1,5 +1,5 @@
 # Super Decoder game 🎮
-![superdecoder](https://shop-giiker.myshopify.com/cdn/shop/files/5_12e80836-1985-4aee-a64e-65b978f2ac05.jpg?v=1740711538&width=800)
+![superdecoder](https://shop-giiker.myshopify.com/cdn/shop/files/5_12e80836-1985-4aee-a64e-65b978f2ac05.jpg?v=1740711538&width=300)
 
 If you don't have money, you can play with this code.
 
